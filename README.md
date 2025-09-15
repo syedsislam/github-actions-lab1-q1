@@ -1,2 +1,3 @@
 # GitHub Actions Lab 1
 Random text...
+Some other test.
